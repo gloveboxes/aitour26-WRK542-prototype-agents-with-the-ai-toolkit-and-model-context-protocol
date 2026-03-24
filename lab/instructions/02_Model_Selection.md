@@ -18,7 +18,7 @@ Since the list is quite consistent, you can use the filtering options to narrow 
 
 ### Filter by Hosting Provider
 
-1. Click on the **All Filters** filter dropdown to display the `Hosted by` list. You have several options, such as GitHub (providing free-to-use token-rate limited models), Microsoft Foundry, OpenAI, and you can even leverage models hosted on your local infrastructure, through Ollama or ONNX.
+1. Click on the **All Filters** filter dropdown to display the **Hosted by** list. You have several options, such as GitHub (providing free-to-use token-rate limited models), Microsoft Foundry, OpenAI, and you can even leverage models hosted on your local infrastructure, through Ollama or ONNX.
 
 2. Select **Microsoft Foundry** to view models hosted in Microsoft Foundry, which provide enterprise-grade security and compliance features, ideal for enterprise applications.
 
