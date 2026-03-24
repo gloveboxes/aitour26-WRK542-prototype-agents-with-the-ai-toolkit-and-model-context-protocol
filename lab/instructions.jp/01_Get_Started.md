@@ -48,8 +48,6 @@
 > [!NOTE]
 > ターミナルに複数行を貼り付ける警告が表示されます。**Paste anyway** をクリックして続行してください。
 
-> [!WARNING]
-> Get-ChildItem -Path . -Include __pycache__ -Recurse -Force | Remove-Item -Recurse -Force
 
 ## Azure に認証
 
